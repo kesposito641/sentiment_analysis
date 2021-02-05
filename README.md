@@ -1,3 +1,4 @@
+# Information below and majority of code base forked from original ProsusAI/finbert repository
 # FinBERT: Financial Sentiment Analysis with BERT
 
 FinBERT sentiment analysis model is now available on Hugging Face model hub. You can get the model [here](https://huggingface.co/ProsusAI/finbert). 
