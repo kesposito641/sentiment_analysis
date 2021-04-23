@@ -21,7 +21,7 @@ Some scripts that came with the orginal forked finBERT repository that we did no
 ### stocknet
 Data and jupyter notebook for acquiring data from the stocknet data source
 
-### web app
+### webApp
 
 ### yahoo
 Data from Yahoo Finance API and notebooks for ascertaining financial data from the api.
