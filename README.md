@@ -11,6 +11,7 @@ Contains numerous files that have a sample of some of the datasets we compiled i
 Contains the files we forked from the original finBERT repo that allowed us to run the finbert model and get sentiment scores.
 
 ### models
+All of the linear regression and xgboost classification models that we created.
 
 ### notebooks
 Jupyter notebooks we used to combine data and look at the pretrained finBERT model
