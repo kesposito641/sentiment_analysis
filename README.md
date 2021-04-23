@@ -5,7 +5,7 @@
 ### Data:
 Contains numerous files that have a sample of some of the datasets we compiled into our final datasets. The final datasets for reddit and twitter were too large to be uploaded to this github repo so here are the drive links to them:
 - Reddit:
-- Twitter:
+- Twitter: https://drive.google.com/file/d/16gwVV-rHhGyApLDKHQK5mEC64ZLCkmqy/view?usp=sharing
 
 ### finbert
 Contains the files we forked from the original finBERT repo that allowed us to run the finbert model and get sentiment scores.
